@@ -1,0 +1,11 @@
+Model Information:
+* title:	Demo Robotic Exhaust Pipe Welding
+* source:	https://sketchfab.com/3d-models/demo-robotic-exhaust-pipe-welding-d3b8f5439e624ff18d26ca43ba302a0a
+* author:	bluoppVR (https://sketchfab.com/bluoppVR)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Demo Robotic Exhaust Pipe Welding" (https://sketchfab.com/3d-models/demo-robotic-exhaust-pipe-welding-d3b8f5439e624ff18d26ca43ba302a0a) by bluoppVR (https://sketchfab.com/bluoppVR) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
